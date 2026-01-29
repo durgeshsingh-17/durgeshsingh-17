@@ -31,13 +31,9 @@
 
 ### GitHub Status:
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgeshsingh-17&theme=radical)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgeshsingh-17&theme=radical) ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgeshsingh-17&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsingh-17&layout=compact&theme=radical)
-
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgeshsingh-17&theme=radical)
-
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshsingh-17&theme=radical)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshsingh-17&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsingh-17&layout=compact&theme=radical)
 
 <!-- ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgeshsingh-17&theme=radical)
 
